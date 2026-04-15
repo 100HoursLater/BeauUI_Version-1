@@ -12,7 +12,6 @@ A Framework developed by your truly, its lightweight and minimalist Unreal Engin
 
 2. If you remove my music, you can remove my copyright credit for the music.
 
-## ***DO NOT REMOVE THE BOTTOM TEXT ON THE MAIN MENU SCREEN.***
 
 ### Graphics
 
